@@ -1,0 +1,1 @@
+uwsgi_exporter==0.12.0
